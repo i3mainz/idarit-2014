@@ -1,8 +1,7 @@
-qgis-caa2014
+idarit_2014
 ============
 
-### Willkommen beim QGIS 2.0 Tutorial
-### Workshop der AG CAA in Tübingen, 15. Februar 2014
+### Willkommen beim IDARIT QGIS 2.0 Tutorial im WS 2014
 
 I Grundlagen
   1. AtlantGIS - Das Szenario
